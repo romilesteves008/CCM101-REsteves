@@ -24,3 +24,22 @@ Google Cloud Platform is widely recognized for its capabilities in Artificial In
 ### 4. What similarities did you observe among the three cloud providers?
 
 All three cloud providers offer similar fundamental infrastructure services, including computing, storage, networking, and identity and access management. They also provide scalable resources that organizations can use without having to maintain all of the physical infrastructure themselves.
+
+
+## Guide Questions
+
+### 1. Which cloud provider offers the broadest range of services? Explain your answer.
+
+AWS offers one of the broadest ranges of cloud services. It provides services for computing, storage, networking, databases, security, analytics, and many other cloud needs, allowing organizations to build different types of applications and systems.
+
+### 2. Which cloud platform would you recommend for an organization that primarily uses Microsoft products? Why?
+
+I would recommend Microsoft Azure for an organization that primarily uses Microsoft products. Azure works well with Microsoft's technologies and services, making it a suitable choice for organizations already familiar with the Microsoft ecosystem.
+
+### 3. Which platform is widely recognized for Artificial Intelligence (AI), Machine Learning (ML), and Kubernetes services?
+
+Google Cloud Platform (GCP) is widely recognized for its AI, machine learning, and Kubernetes capabilities. Google Cloud provides services and tools that support AI and ML workloads, while Google Kubernetes Engine (GKE) supports applications running on Kubernetes.
+
+### 4. What similarities did you observe among the three cloud providers?
+
+AWS, Microsoft Azure, and Google Cloud all provide similar basic cloud infrastructure services, including compute, storage, networking, and identity and access management. All three platforms allow organizations to use scalable cloud resources instead of managing all physical infrastructure themselves.
