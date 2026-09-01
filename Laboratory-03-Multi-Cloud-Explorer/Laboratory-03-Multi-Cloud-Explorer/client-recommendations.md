@@ -50,6 +50,18 @@ AWS is a suitable choice for the global e-commerce company because it provides s
 
 **Recommended Services:**
 
+# Multi-Cloud Decision Matrix
+# Multi-Cloud Decision Matrix
+
+| Business Requirement    | Recommended Platform  | Justification                                                                                                                          |
+| ----------------------- | --------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Startup Company         | AWS                   | AWS provides scalable services and a wide range of tools that can support a startup as it grows.                                       |
+| Enterprise Organization | AWS                   | AWS offers a broad range of services and scalable infrastructure suitable for large organizations.                                     |
+| Microsoft Environment   | Microsoft Azure       | Azure provides strong integration with Microsoft technologies such as Windows Server, Microsoft 365, and Active Directory.             |
+| AI / Machine Learning   | Google Cloud Platform | GCP provides strong capabilities for Artificial Intelligence and Machine Learning workloads.                                           |
+| Kubernetes Deployment   | Google Cloud Platform | GCP provides Google Kubernetes Engine (GKE), which is designed for deploying and managing containerized applications using Kubernetes. |
+| Global Web Application  | AWS                   | AWS provides global infrastructure and scalable services that can support applications serving users around the world.                 |
+
 * Amazon EC2 – for running the e-commerce application
 * Elastic Load Balancing – for distributing traffic across application resources
 * Amazon S3 – for storing images, files, and other objects
